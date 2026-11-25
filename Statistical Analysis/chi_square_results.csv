@@ -1,0 +1,4 @@
+Test,ChiSquare,DegreesOfFreedom,PValue,Significant
+Interrupted schooling vs job prospects,6.13,1,0.013,Yes
+Age at first pregnancy vs going back to school,0.58,2,0.746,No
+Interrupted schooling vs change in income,0.5,3,0.92,No

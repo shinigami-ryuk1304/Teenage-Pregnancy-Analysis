@@ -1,5 +1,5 @@
 column,question
-respondent_id,Respondent number added during cleaning
+respondent_id,Row number given at import (timestamps removed for privacy)
 current_age,What is your current age?
 age_first_pregnancy,At what age did you first become pregnant?
 marital_status,What is your marital status?
