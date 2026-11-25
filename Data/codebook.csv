@@ -1,0 +1,43 @@
+column,question
+respondent_id,Respondent number added during cleaning
+current_age,What is your current age?
+age_first_pregnancy,At what age did you first become pregnant?
+marital_status,What is your marital status?
+religion,What is your religion?
+education_level,What is the highest level of education you have completed?
+in_school_before_pregnancy,Were you attending school before you became pregnant?
+education_status_now,What is your current educational status?
+occupation,What is your current occupation?
+number_of_children,How many children do you currently have?
+lives_with,With whom do you currently live?
+monthly_income,What is your average monthly income?
+education_interrupted,Did teenage pregnancy interrupt your education?
+education_after_pregnancy,What happened to your education after you became pregnant?
+returned_to_school,Were you able to return to school after giving birth?
+time_before_resuming,"If you returned to school, how long did it take before you resumed your education?"
+reason_not_continuing,What was the major reason for not continuing your education after pregnancy?
+effect_on_grades,How did teenage pregnancy affect your academic performance?
+faced_stigma_in_school,Did you experience discrimination or stigma in school because of your pregnancy?
+education_status_now_2,What is your current educational status?.1
+reduced_higher_ed_chance,"In your opinion, did teenage pregnancy reduce your chances of attaining higher education?"
+effect_on_education,"Overall, how would you describe the effect of teenage pregnancy on your educational attainment?"
+has_income_activity,Are you currently engaged in any income-generating activity?
+main_income_source,What is your primary source of income?
+monthly_income_now,How would you describe your current monthly income?
+affected_employment,Did teenage pregnancy affect your ability to secure employment?
+income_change,"Since becoming a mother, how has your income changed?"
+main_financial_support,Who is your main source of financial support?
+economic_activity,What type of economic activity are you currently involved in?
+affected_skills,Has teenage pregnancy affected your ability to acquire vocational or professional skills?
+household_expenses_met_by,How do you meet your daily household expenses?
+effect_on_economic_wellbeing,"Overall, how would you describe the effect of teenage pregnancy on your economic wellbeing?"
+emotional_support_from,Who provides you with the greatest emotional support?
+financial_support_from,Who is your primary source of financial support?
+got_govt_ngo_help,Have you ever received assistance from any government agency or non-governmental organization (NGO)?
+support_type,What type of support have you received the most?
+joined_skills_programme,Have you participated in any vocational or skills acquisition programme since becoming a mother?
+supports_self_by,What do you mainly do to support yourself and your child?
+childcare_help_from,Who mainly assists you with childcare responsibilities?
+support_frequency,How often do you receive support from family or friends?
+support_effectiveness,How effective has the support you receive been in helping you cope with the challenges of teenage motherhood?
+coping_ability,"Overall, how would you rate your ability to cope with the socioeconomic challenges associated with teenage pregnancy?"
